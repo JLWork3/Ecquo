@@ -76,6 +76,7 @@
         <item>Today is a new day</item>
         <item>Monday is a new day</item>
         <item>Wednesday is a fun day</item>
+
     </string-array>
     <string name="title_activity_task">TaskActivity</string>
     <string name="title_task_activity_list">Tasks</string>
